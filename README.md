@@ -1,0 +1,2 @@
+# http-localhost-8888-notebooks-Medical-20Cost-20Personal-20Insurance-20Project.ipynb
+Practice project
